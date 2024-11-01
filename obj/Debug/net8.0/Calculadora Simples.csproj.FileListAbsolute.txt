@@ -1,0 +1,14 @@
+C:\Users\konam\OneDrive\Área de Trabalho\Calculadora Simples\obj\Debug\net8.0\Calculadora Simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konam\OneDrive\Área de Trabalho\Calculadora Simples\obj\Debug\net8.0\Calculadora Simples.AssemblyInfoInputs.cache
+C:\Users\konam\OneDrive\Área de Trabalho\Calculadora Simples\obj\Debug\net8.0\Calculadora Simples.AssemblyInfo.cs
+C:\Users\konam\OneDrive\Área de Trabalho\Calculadora Simples\obj\Debug\net8.0\Calculadora Simples.csproj.CoreCompileInputs.cache
+C:\Users\konam\OneDrive\Área de Trabalho\Calculadora Simples\bin\Debug\net8.0\Calculadora Simples.exe
+C:\Users\konam\OneDrive\Área de Trabalho\Calculadora Simples\bin\Debug\net8.0\Calculadora Simples.deps.json
+C:\Users\konam\OneDrive\Área de Trabalho\Calculadora Simples\bin\Debug\net8.0\Calculadora Simples.runtimeconfig.json
+C:\Users\konam\OneDrive\Área de Trabalho\Calculadora Simples\bin\Debug\net8.0\Calculadora Simples.dll
+C:\Users\konam\OneDrive\Área de Trabalho\Calculadora Simples\bin\Debug\net8.0\Calculadora Simples.pdb
+C:\Users\konam\OneDrive\Área de Trabalho\Calculadora Simples\obj\Debug\net8.0\Calculadora Simples.dll
+C:\Users\konam\OneDrive\Área de Trabalho\Calculadora Simples\obj\Debug\net8.0\refint\Calculadora Simples.dll
+C:\Users\konam\OneDrive\Área de Trabalho\Calculadora Simples\obj\Debug\net8.0\Calculadora Simples.pdb
+C:\Users\konam\OneDrive\Área de Trabalho\Calculadora Simples\obj\Debug\net8.0\Calculadora Simples.genruntimeconfig.cache
+C:\Users\konam\OneDrive\Área de Trabalho\Calculadora Simples\obj\Debug\net8.0\ref\Calculadora Simples.dll
